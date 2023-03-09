@@ -1,2 +1,4 @@
-* __GHG__ green house gas
+* __CDP__ CDP ist eine gemeinnützige Wohltätigkeitsorganisation, die das globale Offenlegungssystem für Investoren, Unternehmen, Städte, Staaten und Regionen betreibt, um ihre Umweltauswirkungen zu verwalten. https://www.cdp.net/en Häufig (ca. 90 %) wird GHG Protokoll für Einreichungen verwendet.
 * __CSRD__  Corporate Sustainability Reporting Directive https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2464; in Kraft seit 05.01.2023; ergänzt die Non-Financial Reporting Directive (NFRD); erstanwendung für das Berichtsjahr 2024
+* __GHG__ green house gas
+* __GHG protocol__ Internationaler Standard für Berichte über Treibhausgasemissionen für Unternehmen und den öffentlichen Bereich. Enthält Vorschriften zur Berechnung von GHG-Emissionen in drei Scopes. https://ghgprotocol.org/, https://de.wikipedia.org/wiki/GHG_Protocol
