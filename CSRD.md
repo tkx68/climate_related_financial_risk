@@ -12,6 +12,9 @@
     * am 1. Januar 2024 für Unternehmen, die bereits der NFRD unterliegen (erste Berichterstattung 2025);
     * am 1. Januar 2025 für große Unternehmen, die derzeit nicht der NFRD unterliegen (erster Bericht 2026);
     * am 1. Januar 2026 für börsennotierte KMU sowie für kleine und nicht komplexe Kreditinstitute und firmeneigene Versicherungsunternehmen (erster Bericht 2027) mit einer Opt-Out-Möglichkeit bis 2028.
+ * Prüfungspflicht: Ja
+ * Veröffentlichung: Im Lagebericht
+ * Maschinenlesbar: Ja
 
 # Zusammenfassung
 
