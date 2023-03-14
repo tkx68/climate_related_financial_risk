@@ -1,20 +1,29 @@
-# Überblick
+# Fakten zur Corporate Sustainability Reporting Directive (CSRD)
 
-Die im November 2022 vom EU-Parlament verabschiedete Corporate Sustainability Reporting Directive (CSRD) ändert den Umfang und die Art der Nachhaltigkeitsberichterstattung von Unternehmen tiefgreifend.
+* Vom EU-Parlament verabschiedet: November 2022
+* In Kraft getreten: Dezember 2022
+* Betroffene:
+    * Unternehmen (rund 50.000 Unternehmen in der EU betroffen, davon allein 15.000 nur in Deutschland) mit 
+        * Bilanzsumme > 20 Mio. Euro
+        * Nettoumsatzerlöse > 40 Mio. Euro
+        * Zahl der Beschäftigten > 250
+* Gegenstand: Regeln zur nicht-finanziellen Berichterstattung erheblich erweitert ggü. NFRD
+* Wirksamkeit: Ab Geschäftsjahr 2023
 
-Mit der CSRD werden bestehende Regeln zur nicht-finanziellen Berichterstattung erheblich erweitert. Alle an einem EU-regulierten Markt notierten Unternehmen (mit Ausnahme von Kleinstunternehmen) sind von der neuen Berichtspflicht erfasst. Zudem sind alle nicht kapitalmarkt-orientierten Betriebe von der CSRD erfasst, wenn sie zwei der drei folgenden Kriterien erfüllen:
+# Zusammenfassung
 
-* Bilanzsumme > 20 Mio. Euro
-* Nettoumsatzerlöse > 40 Mio. Euro
-* Zahl der Beschäftigten > 250
+Die CSRD folgt einer doppelten Wesentlichkeitsperspektive ("Double Materiality"):
 
-Schätzungsweise wären damit rund 50000 Unternehmen in der EU betroffen, davon allein 15000 nur in Deutschland. 
+1. Unternehmen müssen die Wirkung von Nachhaltigkeitsaspekten auf die wirtschaftliche Lage des Unternehmens festhalten
+2. und sie müssen die Auswirkungen ihrer Tätigkeit auf Nachhaltigkeitsaspekte berichten.
 
-Die neue CSR-Richtlinie folgt einer doppelten Wesentlichkeitsperspektive („Double Materiality“). Das heißt, Unternehmen müssen die Wirkung von Nachhaltigkeitsaspekten auf die wirtschaftliche Lage des Unternehmens festhalten. Und sie müssen die Auswirkungen des Betriebs auf Nachhaltigkeitsaspekte verdeutlichen. Die CSRD fordert in der Berichterstattung Angaben zu:
+Die Berichterstattung folgt den zukünftigen European Sustainability Reporting Standards (ESRS).
 
-* Nachhaltigkeitszielen,
-* der Rolle von Vorstand und Aufsichtsrat,
-* den wichtigsten nachteiligen Wirkungen des Unternehmens und
-* zu noch nicht bilanzierten immateriellen Ressourcen.
+## Inhalte
 
-Zudem gibt es mit der neuen CSRD nicht mehr die Möglichkeit, nichtfinanzielle Informationen in einem separaten nichtfinanziellen Bericht zu veröffentlichen. Nachhaltigkeitsinformationen sollen zukünftig ausschließlich im Lagebericht offengelegt werden.
+* Nachhaltigkeitsziele
+* Rolle von Vorstand und Aufsichtsrat
+* Nachteilige Wirkungen des Unternehmens
+* Noch nicht bilanzierte immaterielle Ressourcen
+
+Zudem gibt es mit der neuen CSRD nicht mehr die Möglichkeit, nichtfinanzielle Informationen in einem separaten nichtfinanziellen Bericht zu veröffentlichen. Nachhaltigkeitsinformationen sollen zukünftig __ausschließlich im Lagebericht__ offengelegt werden.
