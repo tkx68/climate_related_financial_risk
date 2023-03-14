@@ -75,3 +75,7 @@ Das Unternehmen soll auch über das Verfahren zur Ermittlung der Informationen b
 Die offengelegten Informationen sollen zukunftsorientierte und rückblickende Informationen sowie qualitative und quantitative Informationen enthalten. Gegebenenfalls auch Informationen über die Wertschöpfungskette des Unternehmens, einschließlich der eigenen Geschäftstätigkeit, Produkte und Dienstleistungen, seiner Geschäftsbeziehungen und seiner Lieferkette.
 
 Weiterhin müssen Details, die ein Unternehmen aus Gründen des Wettbewerbs nicht nennen will, nicht veröffentlicht werden, wenn das zuständige Mitgliedsland dies erlaubt hat.
+
+## Format
+
+Das „Single electronic Reporting Format“ schreibt zukünftig ein Tagging der Nachhaltigkeitsinformationen vor und soll die Kompatibilität mit dem von der EU noch zu entwickelndem „European Single Access Point“ herstellen, einem zentralen Register für digital aufbereitete Berichte.
